@@ -1,16 +1,113 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chinthapally Raghavendra</h1>
 
-<!--
-**Rocky-1729/Rocky-1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student | Full Stack Developer | DSA Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Building Real-World Projects <br>
+💻 Learning Full Stack Development <br>
+📚 Practicing DSA in Java <br>
+🌱 Exploring AI and Data Analytics
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Full Stack Developer
+- 🚀 Currently working on **Water Can Delivery System**
+- 🤖 Designing **RPD Intelligence – AI-Powered Product Feedback Analysis Platform**
+- 📚 Learning **React, Node.js, MongoDB, Java, Python**
+- 🏆 Solving DSA and LeetCode Problems
+- 🌐 Building Professional Web Applications
+- 🎯 Looking for Internship & Software Engineering Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💧 Water Can Delivery System
+A complete full-stack water delivery management platform.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and achievements.
+
+### 🤖 RPD Intelligence
+Enterprise AI-powered Product Feedback Analysis Platform.
+
+### 📊 Data Analytics Projects
+Exploring Data Modeling, Analytics, and Visualization.
+
+### 🧠 DSA in Java
+Interview preparation and coding challenges.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Current Goals
+
+- Complete Full Stack Development
+- Master DSA in Java
+- Crack Software Engineering Interviews
+- Build Industry-Level Projects
+- Contribute to Open Source
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+### 💡 "Code • Learn • Build • Repeat"
+
+</div>
